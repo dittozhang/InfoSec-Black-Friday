@@ -471,6 +471,11 @@ https://www.mosse-institute.com/
 10% off any course with code `MCSI-BLACK-FRIDAY-2024` \
 Deal ends: 29th November
 
+**TryHackMe - Cyber Security Training + Labs** \
+https://tryhackme.com/
+35% off on Annual Plans \
+Deal ends: 30th November
+
 ## Mini Courses
 
 **LufSec** - Car Hacking, IoT, Web App Pentesting Mini Courses \
